@@ -1,10 +1,10 @@
 # SoundDetection
 Sound detection using pyaudio
 
-#packge 
+### Packge 
 
 pip install pyaudio
 
-#Command
+### Command
 
 python SoundDetection.py
